@@ -1,0 +1,15 @@
+# Output data (can be large — regenerate with parser.py)
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
